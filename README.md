@@ -41,4 +41,3 @@ function (a, b, margin){
 * Contains a plausible collection of test cases
 * Outputs are accurately derived from inputs
 * Summary is plausible
-  * Official answer is that it accepts 3 numbers, two to compare, and an optional margin. It returns with `a` is lower than, close to, or higher than `b`.
